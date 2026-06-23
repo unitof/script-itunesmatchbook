@@ -2,6 +2,12 @@
 
 Read-only tooling for Music.app iCloud/Match analysis on macOS.
 
+## Migration note
+
+This repository has moved to the `itunes-matchbook/` folder in the
+[`unitof/scripts`](https://github.com/unitof/scripts) monorepo. This old
+repository is kept as an archived history pointer.
+
 ## What we confirmed (2026-02-20)
 - Primary library package is:
   - `/Users/jacob/Music/Music/Music Library.musiclibrary`
